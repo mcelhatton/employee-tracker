@@ -22,6 +22,7 @@ A command-line application to manage a company's employee database, using Node.j
 
 ## INSTALLATION:<a name="installation"></a>
 * No installation.  Application runs in the command line / terminal
+* START application by typing "npm start" while in your terminal inside the applications root directory
 
 ## TECHNOLOGIES:<a name="technologies"></a>
 * JavaScript, Node, Inquirer, and MySQL
